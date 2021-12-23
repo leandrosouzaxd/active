@@ -1,2 +1,2 @@
-active
+Json for an active customer
 
